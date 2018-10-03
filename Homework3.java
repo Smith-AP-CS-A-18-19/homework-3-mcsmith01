@@ -17,34 +17,39 @@ public class Homework3 {
 	 * class (e.g. Math.random())
 	 */
 	public void grade() {
-
+		Homework3.grade(this);
 	}
 
 	/* Calculate and return the sum of value1, value2, and value3
 	 */
 	public int sum() {
-
+		return value1 + value2 + value3;
 	}
 
 	/* Calculate and return the average of value1, value2, and value3
 	 * Hint: the average of numbers can be fractional
 	 */
 	public double average() {
-
+		double x = sum();
+		return x / 3;
 	}
 
 	/* Calculate and return the difference between the product and sum of
 	 * value 1, value2, and value3
 	 */
 	 public int productSumDifference() {
-
+		 int product = value1 * value2 * value3;
+		 return product - sum();
 	 }
 
 	 /* Calculate and return the sum of the squares of value1, value2, and
 	  * value3
 	  */
 	  public int sumSquares() {
-
+		  int s1 = value1 * value1;
+		  int s2 = value2 * value2;
+		  int s3 = value3 * value3;
+		  return s1 + s2 + s3;
 	  }
 
 	  /* Tests to verify that your solutions work
