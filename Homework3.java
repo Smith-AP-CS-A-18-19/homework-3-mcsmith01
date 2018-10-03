@@ -1,3 +1,4 @@
+// mcsmith01
 /*
  * First and Last Names
  */
@@ -100,6 +101,6 @@ public class Homework3 {
 			  System.out.println("Fail");
 		  }
 
-		  System.exit(exitCode);
+		  // System.exit(exitCode);
 	  }
 }
