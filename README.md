@@ -12,3 +12,23 @@ Make sure that you include your first and last name in the comment section at th
 ## Feedback
 All Pass
 10/10
+
+## Feedback
+Fail - 1 4
+8/10
+
+## Feedback
+Fail - 1 4
+8/10
+
+## Feedback
+Fail - 1 4
+8/10
+
+## Feedback
+Fail - 4
+9/10
+
+## Feedback
+Pass
+10/10
